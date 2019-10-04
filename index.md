@@ -10,12 +10,12 @@ hi, there welcome to this page, bakode is `[me, my or i]` [@aasumitro](https://a
 
 - Play with [Golang](http://golang.org)
   - Worker
-    - [EGO-WORKER](./worker-ego)
-    - [MEGO-WORKER](./worker-mego)
-    - [NEGO-WORKER](./worker-nego)
+    - [EGO-WORKER](./pages/worker-ego)
+    - [MEGO-WORKER](./pages/worker-mego)
+    - [NEGO-WORKER](./pages/worker-nego)
 
 - Play with [Kotlin](https://kotlinlang.org)
   - Android App
-    - [Da'Movie](./app-damovie)
-    - [Firegate](./app-firegate)
-    - [Realfootball](./app-realfootball)
+    - [Da'Movie](./pages/app-damovie)
+    - [Firegate](./pages/app-firegate)
+    - [Realfootball](./pages/app-realfootball)
