@@ -2,7 +2,11 @@
 layout: default
 ---
 
-### About Project:
+## Welcome to Bakode with A. A. Sumitro
+
+hi, there welcome to this page, bakode is `[me, my or i]` [@aasumitro](https://aasumitro.id) bla bla ble ble repositories.
+
+### Latest `OSP` Project:
 
 - Play with [Golang](http://golang.org)
   - Worker
