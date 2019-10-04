@@ -7,4 +7,4 @@ layout: default
 
 for more information visit [realfootball repository](https://github.com/aasumitro/Dicoding_KADE)
 
-[back](./)
+[back](./../)

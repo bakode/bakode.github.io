@@ -7,4 +7,4 @@ layout: default
 
 for more information visit [damovie repository](https://github.com/aasumitro/Dicoding_MADE/)
 
-[back](./)
+[back](./../)

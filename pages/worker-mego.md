@@ -8,5 +8,4 @@ SMS (Short Messaging Service) Worker that handle incoming queue from Message Bro
 
 for more information visit [mego-worker repository](https://github.com/aasumitro/mego-worker)
 
-
-[back](./)
+[back](./../)

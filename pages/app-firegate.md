@@ -14,4 +14,4 @@ Firegate is simple App that make your android phone as sms gateway using firesto
 
 for more information visit [firegate repository](https://github.com/aasumitro/firegate)
 
-[back](./)
+[back](./../)

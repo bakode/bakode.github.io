@@ -8,5 +8,4 @@ Push Notification Worker that handle incoming queue from Message Broker and send
 
 for more information visit [nego-worker repository](https://github.com/aasumitro/nego-worker)
 
-
-[back](./)
+[back](./../)

@@ -8,4 +8,4 @@ Email Worker that handle incoming queue from Message Broker and send it via SMTP
 
 for more information visit [ego-worker repository](https://github.com/aasumitro/ego-worker)
 
-[back](./)
+[back](./../)
